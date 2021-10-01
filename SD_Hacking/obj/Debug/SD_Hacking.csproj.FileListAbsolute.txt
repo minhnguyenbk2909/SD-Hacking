@@ -1,0 +1,9 @@
+D:\VS etc\projects\SD_Hacking\bin\Debug\SD_Hacking.exe.config
+D:\VS etc\projects\SD_Hacking\bin\Debug\SD_Hacking.exe
+D:\VS etc\projects\SD_Hacking\bin\Debug\SD_Hacking.pdb
+D:\VS etc\projects\SD_Hacking\obj\Debug\SD_Hacking.Form1.resources
+D:\VS etc\projects\SD_Hacking\obj\Debug\SD_Hacking.Form2.resources
+D:\VS etc\projects\SD_Hacking\obj\Debug\SD_Hacking.Properties.Resources.resources
+D:\VS etc\projects\SD_Hacking\obj\Debug\SD_Hacking.csproj.GenerateResource.cache
+D:\VS etc\projects\SD_Hacking\obj\Debug\SD_Hacking.exe
+D:\VS etc\projects\SD_Hacking\obj\Debug\SD_Hacking.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD_Hacking", "SD_Hacking.csproj", "{90D80DB9-0271-40B8-99CE-DAD71DD65974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D80DB9-0271-40B8-99CE-DAD71DD65974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D80DB9-0271-40B8-99CE-DAD71DD65974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D80DB9-0271-40B8-99CE-DAD71DD65974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D80DB9-0271-40B8-99CE-DAD71DD65974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BE3B0E-3478-4484-8BD9-E1A3406EBAE7}
+	EndGlobalSection
+EndGlobal
